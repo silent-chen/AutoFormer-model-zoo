@@ -2,7 +2,7 @@
 
 This is the model zoo for our ICCV 2021 paper [`AutoFormer: Searching Transformers for Visual Recognition`](https://arxiv.org/abs/2107.00651).
 
-**The code** is given [here](https://github.com/microsoft/AutoML/tree/main/AutoFormer).
+**The code** is given [here](https://github.com/microsoft/Cream/tree/main/AutoFormer).
 
 ## Citing AutoFormer
 
